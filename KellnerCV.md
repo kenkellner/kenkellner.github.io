@@ -32,13 +32,11 @@ Models of wildlife distribution and abundance, open-source scientific software, 
 
 ## Software
 
-|                                                     |                                                                       |
-|-----------------------------------------------------|-----------------------------------------------------------------------|
-| [jagsUI](https://kenkellner.com/jagsUI) | R interface to JAGS, a program for Bayesian analysis  |
-| [unmarked](https://rbchan.github.io/unmarked/) | R package for analysis of wildlife occurrence and abundance                |
-| [ubms](https://kenkellner.com/ubms) | Run models from R package unmarked in [Stan](https://mc-stan.org/)                   |
-| [article-epub](https://github.com/kenkellner/article-epub) | Python package to build e-books from scientific articles       |
-| [Unmarked.jl](https://github.com/kenkellner/Unmarked.jl) | Julia port of R package unmarked                                 |
+|                                             |                                                                    |
+|---------------------------------------------|--------------------------------------------------------------------|
+| [jagsUI](https://kenkellner.com/jagsUI)     | R interface to JAGS, a program for Bayesian analysis               |
+| [unmarked](https://kenkellner.com/unmarked) | R package for analysis of wildlife occurrence and abundance        |
+| [ubms](https://kenkellner.com/ubms)         | Run models from R package unmarked in [Stan](https://mc-stan.org/) |
 
 ## Book
 
@@ -78,6 +76,8 @@ Systematics of Amphibians, Reptiles, and Birds
 
 
 ## Papers Continued
+
+Belant JL, Denker KU, Kellner KF (2024). Age-based scoring as a complementary approach to sustainable trophy hunting. *BioScience*, biae091. [[view]](https://doi.org/10.1093/biosci/biae091)
 
 Belant JL, Bennett A, Kellner KF, del Mar Mancha-Cisneros M (2024). Wildlife harvests can advance food security and the food systems agenda. *Nature Food*. [[view]](https://doi.org/10.1038/s43016-024-01023-9)
 
