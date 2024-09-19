@@ -32,19 +32,19 @@ Models of wildlife distribution and abundance, open-source scientific software, 
 
 ## Software
 
-|                                                     |                                                                       |
-|-----------------------------------------------------|-----------------------------------------------------------------------|
-| [jagsUI](https://kenkellner.com/jagsUI) | R interface to JAGS, a program for Bayesian analysis  |
-| [unmarked](https://rbchan.github.io/unmarked/) | R package for analysis of wildlife occurrence and abundance                |
-| [ubms](https://kenkellner.com/ubms) | Run models from R package unmarked in [Stan](https://mc-stan.org/)                   |
-| [article-epub](https://github.com/kenkellner/article-epub) | Python package to build e-books from scientific articles       |
-| [Unmarked.jl](https://github.com/kenkellner/Unmarked.jl) | Julia port of R package unmarked                                 |
+|                                             |                                                                    |
+|---------------------------------------------|--------------------------------------------------------------------|
+| [jagsUI](https://kenkellner.com/jagsUI)     | R interface to JAGS, a program for Bayesian analysis               |
+| [unmarked](https://kenkellner.com/unmarked) | R package for analysis of wildlife occurrence and abundance        |
+| [ubms](https://kenkellner.com/ubms)         | Run models from R package unmarked in [Stan](https://mc-stan.org/) |
 
 ## Book
 
 Kéry M, Kellner KF (2024). *Applied Statistical Modelling for Ecologists*. Elsevier. [[view]](https://kenkellner.com/ASM)  [[buy]](https://shop.elsevier.com/books/applied-statistical-modelling-for-ecologists/kery/978-0-443-13715-0) 
 
 ## Selected Papers
+
+Kellner KF, Doser JW, Belant JL (2024). Functional R code is rare in species distribution and abundance papers. *Ecology*, e4475. [[view]](https://doi.org/10.1002/ecy.4475) 
 
 Kéry M, Royle JA, Hallman T, Robinson WD, Strebel N, Kellner KF (2024). Integrated distance sampling models for simple point counts. *Ecology* 105, e4292. [[view]](https://doi.org/10.1002/ecy.4292)
 
@@ -78,6 +78,16 @@ Systematics of Amphibians, Reptiles, and Birds
 
 
 ## Papers Continued
+
+Boone HM, Romanski M, Kellner KF, Kays R, Potvin L, Roloff G, Belant JL (2024). Recreational trail use alters mammal diel and space use during and after COVID-19 restrictions in a U.S. national park. *Global Ecology and Conservation* 57, e03363. [[view]](https://doi.org/10.1016/j.gecco.2024.e03363)
+
+Mason DS, Bell ME, Kellner KF, Bennett A, Weston T, Presgrove J, Belant JL (2024). Wild harvests could aid food insecurity and reduce wildlife hyperabundance. *BioScience*, biae110. [[view]](https://doi.org/10.1093/biosci/biae110)
+
+Goergen JD, Lindeque M, Louis MP, Kellner KF, Roloff GJ, Belant JL (2024). Drivers of hunting and photographic tourism income to communal conservancies in Namibia. *Global Ecology and Conservation* 56, e03294. [[view]](https://doi.org/10.1016/j.gecco.2024.e03294)
+
+Schooler SL, Svoboda NJ, Kellner KF, Pu G, Finnegan SP, Belant JL (2024). Variable Spatiotemporal Ungulate Behavioral Response to Predation Risk. *Ecosphere* 15, e70041. [[view]](https://doi.org/10.1002/ecs2.70041)
+
+Belant JL, Denker KU, Kellner KF (2024). Age-based scoring as a complementary approach to sustainable trophy hunting. *BioScience*, biae091. [[view]](https://doi.org/10.1093/biosci/biae091)
 
 Belant JL, Bennett A, Kellner KF, del Mar Mancha-Cisneros M (2024). Wildlife harvests can advance food security and the food systems agenda. *Nature Food*. [[view]](https://doi.org/10.1038/s43016-024-01023-9)
 
@@ -206,6 +216,8 @@ Page LK, Anchor C, Luy E, Kron S, Larson G, Madsen L, Kellner KF, Smyser TJ (200
 
 ## Recent Presentations
 
+Kellner KF, Doser JW, Belant JL (2024). Functional and reproducible code is rare in ecology papers. Wildlife Society Annual Conference, Baltimore, MD.
+
 Kellner KF, Smith AD, Royle JA, Kéry M, Belant JL, Chandler RB (2023). R packages `unmarked` and `ubms`:
 New tools for abundance and occurrence modeling. Wildlife Society Annual Conference, Louisville, KY.
 
@@ -218,6 +230,7 @@ OH.
 
 |            |                                                                        |
 |------------|------------------------------------------------------------------------|
+| 2024       | Outstanding Young Alumni Award, Purdue University                      |
 | 2021       | Osborn Wildlife Conservation Early Career Award, Purdue University     |
 | 2015       | Kirkpatrick Memorial Graduate Student Award, Purdue University         |
 | 2015       | Teaching Academy Graduate Teaching Award, Purdue University            |
